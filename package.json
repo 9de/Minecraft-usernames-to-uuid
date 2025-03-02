@@ -1,0 +1,21 @@
+{
+  "name": "usernametouuid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minecraft",
+    "uuid",
+    "username"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "description": "Fetches UUIDs for a list of Minecraft usernames using PlayerDB API.",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "fs": "^0.0.1-security"
+  }
+}
