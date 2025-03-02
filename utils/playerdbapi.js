@@ -24,7 +24,7 @@ const getProfileInfo = async (username) => {
     // API configuration
     const config = {
         headers: {
-            'User-Agent': 'UsernameToUUIDConvert/1.0 (aldakheel@duck.com)',
+            'User-Agent': 'UsernameToUUIDConvert/1.0 (YOUR EMAIL)',
             'Accept': 'application/json'
         },
         timeout: 5000 // 5 second timeout
